@@ -293,33 +293,7 @@ Security issues (sandbox escape, credential leak through agent output, command i
 
 ---
 
-## Citation
 
-If you use Luxas to produce reports for publication or for a study about agentic research systems, please cite:
-
-```bibtex
-@software{luxas2026,
-  author       = {Mu Qiao (GitHub: Muuuun)},
-  title        = {Luxas: an autonomous research agent for end-to-end literature
-                  survey, experiment design, and LaTeX report generation},
-  year         = {2026},
-  url          = {https://github.com/Muuuun/luxas},
-  note         = {File-backed multi-agent system on pi-mono;
-                  Claude/DeepSeek/GLM/OpenAI multi-model harness}
-}
-```
-
-## Acknowledgments
-
-Built on [pi-mono](https://github.com/badlogic/pi-mono) by [Mario Zechner](https://mariozechner.at/). Prompt evolution via [AgentSmelt](https://github.com/Muuuun/agentsmelt). Number provenance via [provref](https://github.com/Muuuun/provref).
-
-Token sponsorship from [Deeplang 深言科技](https://www.deeplang.ai/).
-
-## License
-
-MIT — see [LICENSE](LICENSE).
-
-<br>
 
 [node-shield]: https://img.shields.io/badge/node-22+-4dc9f6?style=flat-square&labelColor=0a0e14&logo=node.js&logoColor=4dc9f6
 [node-link]: https://nodejs.org/
